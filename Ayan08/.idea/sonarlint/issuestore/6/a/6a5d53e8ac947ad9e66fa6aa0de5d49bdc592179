@@ -1,0 +1,11 @@
+
+p
+java:S1192"NDefine a constant instead of duplicating this literal " - Capital - " 5 times.(õà¦Ğùÿÿÿÿ8à¿Ûî·1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨Şãº8á¿Ûî·1
+L	java:S106"+Replace this use of System.out by a logger.(õà¦Ğùÿÿÿÿ8ç¿Ûî·1
+L	java:S106"+Replace this use of System.out by a logger.(ˆ¬‰şÿÿÿÿ8ç¿Ûî·1
+F	java:S106"+Replace this use of System.out by a logger.(Áİ£q8ç¿Ûî·1
+L	java:S106"+Replace this use of System.out by a logger.(İİËÎşÿÿÿÿ8ç¿Ûî·1
+G	java:S106"+Replace this use of System.out by a logger.(¡µ©Ö8è¿Ûî·1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8è¿Ûî·1
